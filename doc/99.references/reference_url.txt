@@ -1,0 +1,37 @@
+===========================================================================================================
+* 자연어 처리 관련 자료
+===========================================================================================================
+
+* CNN 딥러닝을 이용한 한국어 문장 분류
+http://docs.likejazz.com/cnn-text-classification-tf/
+
+* Word2Vec 모델 기초
+http://pythonkim.tistory.com/92
+
+* 파이썬으로 영어와 한국어 텍스트 다루기
+https://www.lucypark.kr/courses/2015-dm/text-mining.html
+
+* 한글을 이용한 데이터마이닝및 word2vec이용한 유사도 분석
+http://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220384206922&redirect=Dlog&widgetTypeCall=true
+
+* 한국어와 NLTK, Gensim의 만남
+https://www.lucypark.kr/slides/2015-pyconkr/#1
+
+* Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)
+http://hoondongkim.blogspot.kr/2016/07/word2vec-vector-algebra-comparison.html
+
+* Word2vec을 응용한 컨텐츠 클러스터링
+https://www.buzzvil.com/2016/06/16/word2vec_content_clustering/
+
+* Recurrent Neural Network (RNN) Tutorial - Part 1
+http://aikorea.org/blog/rnn-tutorial-1/
+
+* 기계학습과 딥러닝의 응용
+https://www.youtube.com/watch?v=7_6b8iSGj5g
+
+* Java Word2Vec으로 상품연관 키워드 추출
+https://inyl.github.io/machine_leaning/2016/10/01/dl4j_word2vec_exam.html
+
+http://khanrc.tistory.com/entry/TensorFlow-7-word2vec-Implementation
+
+===========================================================================================================
