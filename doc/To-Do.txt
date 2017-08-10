@@ -1,0 +1,5 @@
+1. Tensorflow Serving Study
+
+2. Mecab 형태소 분석기 사용자 사전 추가 방법
+
+3. 머신러닝/딥러닝 분석/설계 방법론
