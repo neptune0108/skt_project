@@ -1,0 +1,23 @@
+1. 업무진행현황
+
+    - Nextobe 본사 근무
+
+    - Nextobe Github 설정
+
+        --> https:// github.com/neptune0108/skt_project/
+
+    - word2vec 관련 기술 study
+
+    - mecab 형태소 분석기 사용자 사전 등록 방법 study
+
+
+2. 이슈
+
+    - 업무 이슈
+
+    - 기술 이슈
+
+
+3. 계획
+
+    - 익일 아이티센 미팅(시간 미정): 교과부 제안관련 회의
