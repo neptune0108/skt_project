@@ -1,7 +1,7 @@
 * Github
 
 - Nextobe Github URL: https://github.com/neptune0108/skt_project/
-
+- SKT Project Github URL: https://github.com/jinsoo21/consulting/
 
 * Tech
 
