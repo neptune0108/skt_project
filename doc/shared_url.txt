@@ -8,5 +8,8 @@
 - Tensorflow 첫걸음: http://git.io/v64JG
 
 
+- 한글 형태소/스테머(Stemmer)
+https://github.com/delosyCho/Korean-Stemmer-and-POS-tagger-
+
 
 * Biz
