@@ -1,0 +1,25 @@
+
+file_name		: 파일명
+service_number		: 서비스 번호
+date			: 날짜 정보
+product_name		: 상품명
+type			: 유형
+topic			: 토픽(분류 정보)
+keyword			: 키워드
+keyword_set		: 키워드 뭉치
+sentence_keyword_set	: 문장별 키워드 뭉치
+paragraph_info		: paragraph 분리 정보(인덱스)
+
+
+{
+	"file_name": "R059_P58996.txt",
+	"service_number": "R059_P58996",
+	"date": "2017.08.28",
+	"product_name": "로밍",
+	"type": ["신청", "변경"],
+	"topic": ["해외"],
+	"keyword": [],
+	"keyword_set": [], 
+	"sentence_keyword_set": [],
+	"paragraph_info": []
+}
