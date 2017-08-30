@@ -1,0 +1,29 @@
+1. 업무진행현황
+
+    - POC 에서 사용하고 있는 각종 알골리즘 내용 정리
+
+        --> TF-IDF, Bayes 정리, LDA, Text-CNN 등 내용 정리(진행 중)
+
+    - POC 1차 결과보고를 위한 정리 작업
+
+        --> 현재까지 작업한 소스코드 내역 정리 및 알고리즘 정리 (정윤수CJ)
+  
+        --> VOC 분석 결과 내역 및 데이터베이스 연동을 위한 결과 포맷 (Json / excel) 설계 (이태희)
+
+            == github.com/neptune0108/skt_project/doc/01.output/01.analysis/result_format.txt
+
+        --> Json 파일 분석 및 excel 생성 프로그램 개발 (이태희 / 설계중)
+
+
+2. 이슈
+
+    - 업무 이슈
+
+        --> 
+
+    - 기술 이슈
+
+        --> 
+
+
+3. 계획      
