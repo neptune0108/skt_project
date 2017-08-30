@@ -3,3 +3,14 @@
 2. Mecab 형태소 분석기 사용자 사전 추가 방법
 
 3. 머신러닝/딥러닝 분석/설계 방법론
+
+4. 각종 머신러닝 알고리즘 정리
+   - TF-IDF
+   - Bayes 정리
+   - LDA
+   - Text-CNN
+
+5. Json to Excel
+  - XlsxWriter
+  - Json
+  - csv
