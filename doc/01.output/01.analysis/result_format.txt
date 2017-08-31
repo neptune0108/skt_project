@@ -19,10 +19,15 @@ paragraph_info		: paragraph 분리 정보(인덱스)
 			"date": "2017.08.28",
 			"product_name": "로밍",
 			"type": ["신청", "변경"],
-			"topic": ["해외"],
-			"keyword": [],
-			"keyword_set": [["해외", "핸드폰", "분실", "국제"], ["엄마", "주문", "명의자"], ["못하"], ["번호가요"]], 
-			"sentence_keyword_set": [["해외", "엄마", "사용", "못하", "못하신"], ["핸드폰", "분실", "국제", "전화", "주문"], ["가요", "번호가요", "번호"], ["명의자", "사공"]],
+			"prargraph": 	[	
+						{
+							"topic": ["해외"],
+							"sub_topic": [[], []]
+							"keyword": [[], []]
+							"keyword_set": [[], [], []], 
+							"sentence_keyword_set": [[], [], [], []],
+						}
+					]
 			"paragraph_info": []
 		}
 	]
