@@ -1,0 +1,49 @@
+1. 업무진행현황
+
+    - POC 에서 사용하고 있는 각종 알골리즘 내용 정리
+
+        --> TF-IDF, Bayes 정리, LDA, Text-CNN 등 내용 정리(진행 중)
+
+    - POC 1차 결과보고를 위한 정리 작업
+
+        --> 현재까지 작업한 소스코드 내역 정리 및 알고리즘 정리 (정윤수CJ)
+  
+        --> VOC 분석 결과 내역 및 데이터베이스 연동을 위한 결과 포맷 (Json / excel) 설계 (이태희)
+
+            == github.com/neptune0108/skt_project/doc/01.output/01.analysis/result_format.txt
+
+        --> Json 파일 분석 및 excel 생성 프로그램 개발 (이태희 / 설계중)
+
+        --> python excel package xlsxwriter 를 활용한 개발 진행 중
+
+    - 업무 미팅
+
+        --> 참석: SKCNC(신현우BJ 외 5명), Nextobe(이태희, 정윤수, 곽태민, 여진수)
+
+        --> 내용: 
+ 
+            == 현재까지 TA/VOC 분석내용 리뷰 및 토론
+ 
+                ==> Paragraph 별 분석: Main Topic, Sub Topic, Keyword Set, Sentence Keyword Set 
+                ==> 메인 분류와 하위 분류간의 갭이 너무 큰 점에 대해서 이견
+
+            == 향 후 진행
+
+                ==> 현재 알고리즘 고도화 중 발견된 메인 분류(Main Topic)시 발생하는 오류 수정
+                ==> 하위 분류(Sub Topic)에 대해서 좀더 상세하게 분류 요청
+                ==> 결과물 파일(json/excel) 작성
+                ==> Lesson Learn 작성: POC 결과 및 향 후 진행 시 필요한 사항 검토/작성
+
+
+2. 이슈
+
+    - 업무 이슈
+
+        --> 
+
+    - 기술 이슈
+
+        --> 
+
+
+3. 계획   
