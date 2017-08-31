@@ -11,5 +11,7 @@
 - 한글 형태소/스테머(Stemmer)
 https://github.com/delosyCho/Korean-Stemmer-and-POS-tagger-
 
+- python xlsxwriter
+http://xlsxwriter.readthedocs.io/worksheet.html
 
 * Biz
