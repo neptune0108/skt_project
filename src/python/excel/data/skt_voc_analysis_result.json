@@ -1,0 +1,21 @@
+{
+  "voc_analysis": [
+    {
+      "file_name": "R059_P58996.txt",
+      "service_number": "R059_P58996",
+      "date": "2017.08.28",
+      "product_name": "로밍",
+      "type": [
+        "신청",
+        "변경"
+      ],
+      "topic": [
+        "해외"
+      ],
+      "keyword": [],
+      "keyword_set": [],
+      "sentence_keyword_set": [],
+      "paragraph_info": []
+    }
+  ]
+}
