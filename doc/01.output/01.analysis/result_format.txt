@@ -12,23 +12,43 @@ paragraph_info		: paragraph 분리 정보(인덱스)
 
 
 {
-	"ta_analysis_result":[
-		{
-			"file_name": "R059_P58996.txt",
-		 	"service_number": "R059_P58996",
-			"date": "2017.08.28",
-			"product_name": "로밍",
-			"type": ["신청", "변경"],
-			"prargraph": 	[	
-						{
-							"topic": ["해외"],
-							"sub_topic": [[], []],
-							"keyword": [[], []],
-							"keyword_set": [[], [], []], 
-							"sentence_keyword_set": [[], [], [], []]
-						}
-					],
-			"paragraph_info": []
-		}
-	]
+  "ta_analysis_result": [
+    {
+      "file_name": "R059_P58996.txt",
+      "service_number": "R059_P58996",
+      "date": "2017.08.28",
+      "product_name": "로밍",
+      "type": [
+        "신청",
+        "변경"
+      ],
+      "prargraph": [
+        {
+          "topic": [
+            "해외"
+          ],
+          "sub_topic": [
+            [],
+            []
+          ],
+          "keyword": [
+            [],
+            []
+          ],
+          "keyword_set": [
+            [],
+            [],
+            []
+          ],
+          "sentence_keyword_set": [
+            [],
+            [],
+            [],
+            []
+          ]
+        }
+      ],
+      "paragraph_info": []
+    }
+  ]
 }
