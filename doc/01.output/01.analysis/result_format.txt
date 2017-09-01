@@ -22,12 +22,12 @@ paragraph_info		: paragraph 분리 정보(인덱스)
 			"prargraph": 	[	
 						{
 							"topic": ["해외"],
-							"sub_topic": [[], []]
-							"keyword": [[], []]
+							"sub_topic": [[], []],
+							"keyword": [[], []],
 							"keyword_set": [[], [], []], 
-							"sentence_keyword_set": [[], [], [], []],
+							"sentence_keyword_set": [[], [], [], []]
 						}
-					]
+					],
 			"paragraph_info": []
 		}
 	]
