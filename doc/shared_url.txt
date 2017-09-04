@@ -15,3 +15,6 @@ https://github.com/delosyCho/Korean-Stemmer-and-POS-tagger-
 http://xlsxwriter.readthedocs.io/worksheet.html
 
 * Biz
+
+* lessons learned
+https://projectresearch.co.kr/2011/02/10/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-lessons-learned-%EC%87%BC%ED%95%91%EB%AA%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EA%B0%9C%EC%84%A0/
