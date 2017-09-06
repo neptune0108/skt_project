@@ -56,16 +56,17 @@ def get_excel_file(excel_file_name, keyword_set_max, sentence_keyword_set_max, r
         worksheet.set_row(row, 20)
         worksheet.set_row(row + 1, 40, cell_multi_line_format)
 
-    #    worksheet.write('A1', caption)
+#        worksheet.write('A1', caption)
         worksheet.merge_range(0, 0, 0, total_col, caption, cell_multi_line_format)
         worksheet.merge_range(1, 0, 1, total_col, description, cell_multi_line_format)
 
         worksheet.write(2, 0, '날짜', header_format)
         worksheet.write(2, 1, '서비스관리번호', header_format)
         worksheet.write(2, 2, 'Main Topic', header_format)
-        worksheet.write(2, 3, 'Feature Extraction', header_format)
+        worksheet.write(2, 3, 'Sub Topic', header_format)
+        worksheet.write(2, 4, 'Feature Extraction', header_format)
 
-        k_col_num = 4
+        k_col_num = 5
         for i in range(keyword_set_max):
             worksheet.write(2, k_col_num + i, '키워드 뭉치 ' + str(i + 1), header_format)
 
@@ -87,9 +88,10 @@ def get_excel_file(excel_file_name, keyword_set_max, sentence_keyword_set_max, r
             worksheet.write(row, 0, date_info, number_format)
             worksheet.write(row, 1, service_num, string_format)
             worksheet.write(row, 2, main_topic, string_format)
-            worksheet.write(row, 3, feature_extraction, string_format)
+            worksheet.write(row, 3, sub_topic, string_format)
+            worksheet.write(row, 4, feature_extraction, string_format)
 
-            col = 4
+            col = 5
             keyword_set_length = len(keyword_set) + col
 
             for j in range(keyword_set_max):
@@ -99,7 +101,7 @@ def get_excel_file(excel_file_name, keyword_set_max, sentence_keyword_set_max, r
                     worksheet.write_blank(row, col, None, string_format)
                 col += 1
 
-            s_col = 4 + keyword_set_max
+            s_col = 5 + keyword_set_max
             sentence_keyword_set_length = len(sentence_keyword_set) + s_col
 
             for k in range(sentence_keyword_set_max):
@@ -112,3 +114,4 @@ def get_excel_file(excel_file_name, keyword_set_max, sentence_keyword_set_max, r
             row += 1
 
         workbook.close()
+        
